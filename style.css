@@ -1,0 +1,25 @@
+.reg-card{
+    padding: 60px !important;
+    /* display: grid;
+    justify-content: center !important;
+    /* align-items: center !important; */
+    margin: 200px !important;
+    background-color: #00308f;
+    border-radius: 20px;
+    /* color: #7CB9E8 !important; */
+    color: #89CFF0 !important;
+    box-shadow: 0 10px 26px #13274F !important;
+    
+}
+.submit{
+    background-color: #89CFF0 !important;;
+    color:#00308f !important;
+    border:none !important;
+}
+img{
+    height: 20vh;
+    width: 20vh;
+    border-radius: 50%;
+    border: none;
+    background-color: dimgray;
+}
